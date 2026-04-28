@@ -260,7 +260,7 @@ Config is separated from code, containers are stateless, and a single codebase i
 
 ## 👤 Author
 
-**Anand** — [GitHub @Anand-1110](https://github.com/Anand-1110)
+**Adarsh** — [GitHub @Adarsh5502](https://github.com/Adarsh5502/)
 
 ---
 
